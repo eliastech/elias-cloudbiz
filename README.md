@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **elias-cloudbiz/elias-cloudbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# El1as Cloud-B1z
+### Hi there 👋 ## El1as Cloud-B1z
 
 [![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
 
