@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## El1as Cloud-B1z 👋
+## 👋 El1as Cloud-B1z 
 
 [![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
 
 ## 💬 About me
-I'm a software development engineer. I like to work with frontend frameworks like Angular.io, Typescript or JavaScript and backends such .NET Core, PHP Frameworks and similar. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS.
+I'm a software and computing engineer. I like to work with frontend frameworks like Angular.io, Typescript or JavaScript and backends such .NET Core, PHP Frameworks and similar. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS.
 
 
 ## Some of the Stacks to peek at 😄
