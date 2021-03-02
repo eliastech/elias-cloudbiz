@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 👋 Hello there!
 💬 I'm software and compute engineer. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS. Some of my other perks ands stamps.
 
-#### Brand Stamps 😄
+#### Branding stamps 😄
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
