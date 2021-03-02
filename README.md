@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 [![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
 
-### 👋 H3ll0\\th3r3 💬
-I'm a software and computing engineer. I like to work with frontend frameworks like Angular.io, Typescript or JavaScript and backends such .NET Core, PHP Frameworks and similar. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS.
+### 👋 Hell0 there 
+💬 I'm a software and computing engineer. I like to work with frontend frameworks like Angular.io, Typescript or JavaScript and backends such .NET Core, PHP Frameworks and similar. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS.
 
 #### Brand stamps 😄
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
