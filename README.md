@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
 
-### 👋 Hello there!
+### 👋 Good morning, Mr. Freeman i guess i am running late?!
 💬 I'm software and compute engineer. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS. Some of my other perks and stamps.
 
 #### Branding stamps 
