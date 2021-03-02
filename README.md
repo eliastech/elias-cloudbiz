@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 
 ## About me 
-I'm a software development engineer. I like to work with frontend frameworks like Angular.io and backends such .NET Core and PHP Frameworks. I like Linux Kernel based OSs such as Ubuntu and CentOS.
+I'm a software development engineer. I like to work with frontend frameworks like Angular.io, Typescript or JavaScript and backends such .NET Core, PHP Frameworks and similar. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS.
 
 
-## Stack I work with
+## Stack i've peeked at ;)
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
