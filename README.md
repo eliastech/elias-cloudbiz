@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 
-## El1as Cloud-B1z
+## El1as Cloud-B1z 👋
 
 [![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
 
@@ -45,7 +44,6 @@ I'm a software development engineer. I like to work with frontend frameworks lik
 <code><img height="50" src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></code>
 
