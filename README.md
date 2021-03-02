@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 El1as Cloud-B1z 
+## 👋 El1as Cl0ud-B1z 
 
 [![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
 
