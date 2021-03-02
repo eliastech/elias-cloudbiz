@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I'm a software development engineer. I like to work with frontend frameworks like Angular.io, Typescript or JavaScript and backends such .NET Core, PHP Frameworks and similar. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS.
 
 
-## Stack i've peeked at ;)
+## Peeking at Stack like:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
@@ -53,11 +53,10 @@ I'm a software development engineer. I like to work with frontend frameworks lik
 <code><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/google_recaptcha/google_recaptcha-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></code>
 
 ### Interesting stats
 
-![Elias's stats](https://github-readme-stats.vercel.app/api?username=elias-cloudbiz&show_icons=true)
+![Elias's stats](https://github-readme-stats.vercel.app/api?username=elias-cloudbiz&show_icons=false)
