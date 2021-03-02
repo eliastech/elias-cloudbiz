@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
 
-### 👋 Hell0 there 
+### 👋 Hello there!
 💬 I'm a software and computing engineer. I like to work with frontend frameworks like Angular.io, Typescript or JavaScript and backends such .NET Core, PHP Frameworks and similar. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS.
 
 #### Brand stamps 😄
