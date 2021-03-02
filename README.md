@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 [![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
 
-
-
-## About me 
+## 💬 About me
 I'm a software development engineer. I like to work with frontend frameworks like Angular.io, Typescript or JavaScript and backends such .NET Core, PHP Frameworks and similar. I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS.
 
 
-## Peeking at Stack like:
+## Some of the Stacks to peek at 😄
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
@@ -45,18 +43,10 @@ I'm a software development engineer. I like to work with frontend frameworks lik
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></code>
 
-### Interesting stats
-
-![Elias's stats](https://github-readme-stats.vercel.app/api?username=elias-cloudbiz&show_icons=false)
