@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
 
 ### 👋 Good morning, i guess i am running late.
-💬 I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS. Some of my other perks, stamps and brans.
+💬 I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS. Some of my other perks, stamps and brands.
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
