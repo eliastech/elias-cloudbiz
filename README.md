@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:eliasnordbiz@outlook.com)
+[![Mail](https://img.shields.io/badge/-eliasnordbiz@outlook.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:noreply@noemail.com)
 
-### 👋 Good morning ☕
+### 👋 Hello ☕
 💬 I like Linux Kernel based OS's such as Ubuntu, RedHat and CentOS. Some of my perks, stamps and brands.
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
